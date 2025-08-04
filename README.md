@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:F5E2E3&height=250&section=header&text=Jeong%20Daeun&fontSize=70&animation=fadeIn&fontColor=FFFAFA&fontAlign=30&stroke=FFF0F5&strokeWidth=1)
+![header] Jeongdaeun1
 <br/>
 <h3 align='center'>🏫 Experience & Social Activity</h3>
 <div align='center'>
@@ -25,7 +25,7 @@
 <h3 align='center'>🛠️ Stacks & Tools</h3>
 <div align='center'>
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
 <br/>
