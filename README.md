@@ -24,12 +24,16 @@
 <br/>
 <h3 align='center'>🛠️ Stacks & Tools</h3>
 <div align='center'>
-<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
 <br/>
 <br/>
+  <h3 align='center'>🐰 About Me & Contact</h3>
+<div align='center'>
+<a href="https://github.com/Jeongdaeun1/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a [href="mailto:danviva2005@kookmin.ac.kr](mailto:href=%22mailto:danviva2005@kookmin.ac.kr)"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danviva2005@kookmin.ac.kr"/></a>
+
 <br/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongdaeun1)](https://github.com/anuraghazra/github-readme-stats&title_color=FFC0CB&text_color=FFC0CB)
