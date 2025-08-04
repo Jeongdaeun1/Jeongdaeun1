@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br/>
 <br/>
   <h3 align='center'>🐰 About Me & Contact</h3>
@@ -35,6 +36,8 @@
 <a [href="mailto:danviva2005@kookmin.ac.kr](mailto:href=%22mailto:danviva2005@kookmin.ac.kr)"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danviva2005@kookmin.ac.kr"/></a>
 
 <br/>
+<br/>
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongdaeun1)](https://github.com/anuraghazra/github-readme-stats&title_color=FFC0CB&text_color=FFC0CB)
 <br/>
