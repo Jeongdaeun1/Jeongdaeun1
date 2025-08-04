@@ -1,4 +1,4 @@
-![header] Jeongdaeun1
+<h1> Jeongdaeun1 </h1>
 <br/>
 <h3 align='center'>🏫 Experience & Social Activity</h3>
 <div align='center'>
