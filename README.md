@@ -42,7 +42,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongdaeun1)](https://github.com/anuraghazra/github-readme-stats&title_color=FFC0CB&text_color=FFC0CB)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongdaeun1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongdaeun1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
