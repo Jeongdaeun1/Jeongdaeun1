@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/Jeongdaeun1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$Jeongdaeun1&layout=compact&show_icons=$true&show_owner=$true&hide_title=$true&theme=$nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongdaeun1&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord" />
   </a>
 
 [![Solved.ac
